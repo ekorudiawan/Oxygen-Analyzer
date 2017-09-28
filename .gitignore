@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Altium Junk
+.Project Logs for Oxygen-Analyzer
+.Project Outputs for Oxygen-Analyzer
+.History
+.__Previews
+*.cam

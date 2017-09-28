@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=SMD-INDUCTOR
+Added Pin To Net: NetName=VIN Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Room: Name=Oxygen-Analyzer
